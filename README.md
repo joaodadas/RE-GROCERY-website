@@ -1,5 +1,9 @@
 # RE GROCERY-website
 
+![Screenshot](./src/components/Img/screenshot.png)
+
+![Screenshot](./src/components/Img/screenshot2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
